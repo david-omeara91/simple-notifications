@@ -1,0 +1,14 @@
+.card {
+    width: 40%;
+    border: 1px solid red;
+    border-radius: 3px;
+    margin: 10px auto;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    width: 100px;
+    margin: 10px auto;
+}
